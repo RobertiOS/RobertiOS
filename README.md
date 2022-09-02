@@ -11,6 +11,20 @@
 
 
 ## 🛠️ My Skills
+
+### 👉 Programming languages
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.swift.org/" target="_blank"> 
+    <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="" target="_blank"> 
+    <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  </a> 
+  &emsp;
+</p>
+
 <!---
 ### 👉 Programming languages
 
