@@ -2,7 +2,11 @@
 <h1 align="center">Hi , I'm Robert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <hr/>
-<h4 align="center">I am an iOS engineer at All win software. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="Justify">I'm an iOS developer with 3 years of experience developing software, understanding requirement specifications, coding design, programming, testing, and maintenance.
+
+I'm proficient with professional software engineering practices and best practices for the full software development lifecycle, including coding standards, code reviews, and source control.
+
+Last but not least I have experience working with agile methodologies, i.e, S.C.R.U.M.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RobertiOS&label=Profile%20views&color=0e75b6&style=plastic" alt="RobertiOS" /> </p>
 
@@ -79,9 +83,9 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-	<a href="mailto:robert.ios.developer@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/roberto-corrales-134a95140/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/TheRealRider69"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="mailto:robert.ios.developer@gmail.com"><img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-128.png" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/roberto-corrales-134a95140/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/TheRealRider69"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" alt="Facebook"/></a>
 	
 </p>
 
