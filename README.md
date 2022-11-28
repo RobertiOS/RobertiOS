@@ -4,7 +4,7 @@
 <hr/>
 <h4 align="Justify">I'm an iOS developer with 3 years of experience developing software, understanding requirement specifications, coding design, programming, testing, and maintenance.
 
-I'm proficient with professional software engineering practices and best practices for the full software development lifecycle, including coding standards, code reviews, and source control.
+I'm proficient with professional software engineering practices and best practices for the full software development lifecycle, including coding standards, code reviews, and unit tests.
 
 Last but not least I have experience working with agile methodologies, i.e, S.C.R.U.M.</h4>
 <br>
