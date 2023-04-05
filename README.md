@@ -82,7 +82,7 @@ hey I'm Robert, I have almost 3 years of experience developing iOS apps and I am
 ## 🙋‍♀️ Let's Connect
 <p align="center">
 	<a href="mailto:robert.ios.developer@gmail.com"><img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-128.png" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/roberto-corrales-134a95140/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/robertocz/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/TheRealRider69"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" alt="Facebook"/></a>
 	
 </p>
