@@ -2,11 +2,9 @@
 <h1 align="center">Hi , I'm Robert <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <hr/>
-<h4 align="Justify">I'm an iOS developer with 3 years of experience developing software, understanding requirement specifications, coding design, programming, testing, and maintenance.
-
-I'm proficient with professional software engineering practices and best practices for the full software development lifecycle, including coding standards, code reviews, and unit tests.
-
-Last but not least I have experience working with agile methodologies, i.e, S.C.R.U.M.</h4>
+<h4 align="Justify">
+hey I'm Robert, I have almost 3 years of experience developing iOS apps and I am passionate about working collaboratively with others. I find great joy in learning from individuals who have a higher level of expertise and knowledge than myself. Being a team player is important to me, as I believe that the best ideas come from bouncing ideas off of others and working together to create innovative solutions
+</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RobertiOS&label=Profile%20views&color=0e75b6&style=plastic" alt="RobertiOS" /> </p>
 
