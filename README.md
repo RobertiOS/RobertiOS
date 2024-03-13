@@ -3,7 +3,7 @@
 
 <hr/>
 <h4 align="Justify">
-hey I'm Robert, I have almost 3 years of experience developing iOS apps and I am passionate about working collaboratively with others. I find great joy in learning from individuals who have a higher level of expertise and knowledge than myself. Being a team player is important to me, as I believe that the best ideas come from bouncing ideas off of others and working together to create innovative solutions.
+hey I'm Robert, I have 3 years of experience developing iOS apps, I'm proficient working with Swift and UIKit using popular architecture patterns like MVVM, Redux, MVC, Clean Architecture, I have experience working with many frameworks like Combine, SwiftUI, Core Animation, Core Graphics and KeyChain. I also have experience working with dart and flutter usig BLOC as architectural pattern
 
 </h4>
 <br>
